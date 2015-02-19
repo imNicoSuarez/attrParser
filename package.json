@@ -1,0 +1,41 @@
+{
+  "name": "attrparser",
+  "version": "0.0.1",
+  "description": "Parser of attributes.",
+  "main": "attr_parser.js",
+  "bin": {
+    "attrParser": "middleware.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imNicoSuarez/attrParser.git"
+  },
+  "keywords": [
+    "attr",
+    "parser",
+    "attributes",
+    "inputs",
+    "body"
+  ],
+  "contributors": [
+    {
+      "name": "Juan Ramon",
+      "email": "jrgonh@gmail.com"
+    },
+    {
+      "name": "Pablo Ifran",
+      "email": "pabloifran@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "deepmerge" : "0.2.7"
+  },
+  "author": "Nicolas Suarez <nicolassuarez.cabrera@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imNicoSuarez/attrParser/issues"
+  }
+}
