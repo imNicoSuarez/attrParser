@@ -4,7 +4,7 @@
   "description": "Parser of attributes.",
   "main": "attr_parser.js",
   "bin": {
-    "attrParser": "middleware.js"
+    "attrParser": "./bin/middleware.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
