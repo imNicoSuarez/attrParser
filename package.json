@@ -1,6 +1,6 @@
 {
   "name": "attrparser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parser of attributes.",
   "main": "attr_parser.js",
   "bin": {
